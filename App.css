@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.main-heading{
+  font-family:monospace;
+  color: royalblue;
+  font-size: 3rem;
+}
+
+@media (max-width: 575.98px) {
+  /* Add your CSS styles for Extra Small screens here */
+
+  .maim-heading{
+    font-family:monospace;
+    color: royalblue;
+    font-size: 1rem;
+    margin-right: 100px;
+  }
+}
